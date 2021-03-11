@@ -20,5 +20,5 @@ Some python libraries
 ---
 
 ### Certification
-![faruk ates](img/TopLearnerCertificate.png)
+![](img/TopLearnerCertificate.png)
 
